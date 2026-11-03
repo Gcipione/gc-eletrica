@@ -1,0 +1,6 @@
+{
+  "name": "GC Elétrica - Landing Page e Vitrine",
+  "description": "Landing page responsiva de alta conversão para a GC Elétrica, com logotipo em círculo, vídeo institucional em MP4, vitrine de serviços em duas colunas no celular e painel administrativo protegido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
